@@ -3,7 +3,7 @@
     {
       "tensorName": "News Dataset (4 categories)",
       "tensorShape": [
-        6137,
+        6138,
         301
       ],
       "tensorPath": "https://gist.githubusercontent.com/ethanyishchan/849b2557c7c28ead812914ce7802313f/raw/0f76fa2a02a2aeaad0bf843c5e1f8a6f736009bf/big_sample_X.tsv",
