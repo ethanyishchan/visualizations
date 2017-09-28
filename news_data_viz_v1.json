@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "News Dataset (4 categories)",
+      "tensorShape": [
+        6137,
+        301
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/ethanyishchan/849b2557c7c28ead812914ce7802313f/raw/79624911b7223f80f2dae9523eb620111ba276d8/big_sample_X.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/ethanyishchan/849b2557c7c28ead812914ce7802313f/raw/79624911b7223f80f2dae9523eb620111ba276d8/big_sample_metadata.tsv"
+    }
+  ]
+}
