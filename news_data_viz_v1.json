@@ -7,7 +7,8 @@
         301
       ],
       "tensorPath": "https://gist.githubusercontent.com/ethanyishchan/073e140063f5e3fe79ca275f21e63ab9/raw/9d07d03a31f73e4bdfd694f0c8a7c429d02c3c97/news_vectors.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/ethanyishchan/36600f749ac70b07599b534898d32e45/raw/55dcc30ac999fd5db5a5a3a237a57ee0ae56478b/news_metadata.txt"
+      "metadataPath": "https://gist.githubusercontent.com/ethanyishchan/36600f749ac70b07599b534898d32e45/raw/55dcc30ac999fd5db5a5a3a237a57ee0ae56478b/news_metadata.txt",
+      "bookmarksPath": "https://raw.githubusercontent.com/ethanyishchan/visualizations/master/pca_state_1.txt"
     }
   ]
 }
