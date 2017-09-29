@@ -6,8 +6,8 @@
         6137,
         301
       ],
-      "tensorPath": "https://gist.github.com/ethanyishchan/849b2557c7c28ead812914ce7802313f/raw/104b0be32f96cf0d72359436270a2b3683b6d44f/big_sample_X.tsv",
-      "metadataPath": "https://gist.github.com/ethanyishchan/849b2557c7c28ead812914ce7802313f/raw/104b0be32f96cf0d72359436270a2b3683b6d44f/big_sample_metadata.tsv"
+      "tensorPath": "https://gist.githubusercontent.com/ethanyishchan/f7161a079b33284f008d7bf7c77ccd3f/raw/cfe24788f0d648fa92b530f22e8f1cf2d264c3cf/big_sample_X.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/ethanyishchan/f7161a079b33284f008d7bf7c77ccd3f/raw/cfe24788f0d648fa92b530f22e8f1cf2d264c3cf/big_sample_labels.txt"
     }
   ]
 }
